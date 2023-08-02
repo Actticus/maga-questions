@@ -76,9 +76,9 @@ Scrum: Система, в которой межфункциональная ко
 
 ## 6. Прогнозирующие методологии разработки программного обеспечения. Основные принципы методологии RUP.
 
-Predictive methodologies: Predictive methodologies, also known as traditional or plan-driven methodologies, rely on extensive planning and documentation upfront before development begins.
+Предиктивные методологии: Предиктивные методологии, также известные как традиционные или планово-ориентированные методологии, предполагают тщательное планирование и документирование до начала разработки.
 
-Basic principles of RUP (Rational Unified Process) methodology: RUP is an iterative and incremental software development process that emphasizes continuous feedback and adaptability. It divides development into four phases: Inception, Elaboration, Construction, and Transition.
+Основные принципы методологии RUP (Rational Unified Process): RUP - это итеративный и инкрементный процесс разработки программного обеспечения, в котором особое внимание уделяется непрерывной обратной связи и адаптивности. В нем разработка делится на четыре фазы: Начало, Разработка, Создание и Переход.
 
 
 
